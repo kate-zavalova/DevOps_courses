@@ -1,4 +1,4 @@
-for ((i = 0; i < 60; i++)); do      
+for ((i = 0; i < 700; i++)); do      
     moves[i]=$[$RANDOM % 6 + 1]
 done
 
