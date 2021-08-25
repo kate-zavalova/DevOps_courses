@@ -1,2 +1,2 @@
-# Put header here
-Put description here
+vagrant init bento/ubuntu-18.04
+vagrant up
